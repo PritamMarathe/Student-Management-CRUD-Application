@@ -25,3 +25,7 @@ This controller class in a Spring Boot project facilitates CRUD (Create, Read, U
    - If the student record with the specified ID exists, it is deleted from the database. Otherwise, a "Not Found" response is returned.
 
 Overall, this controller class provides a RESTful API interface for managing student records, allowing clients to perform CRUD operations seamlessly. It ensures proper handling of requests and responses while maintaining data integrity and security.
+
+Technologies:- Spring Core, Spring Boot, Spring Data JPA, MYSQL
+
+Tools:- STS, MYSQL Workbench 8, Postman
